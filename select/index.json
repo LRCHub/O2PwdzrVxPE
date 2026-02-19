@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ソラシド",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-19T11:38:18.776445Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ソラシド",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_ソラシド_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ソラシド",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/02_ソラシド_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ソラシド〜ねえねえ〜",
+      "artist": "Buono!",
+      "has_synced": false,
+      "path": "select/03_ソラシド〜ねえねえ〜_Buono!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ソラシド",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_ソラシド_GReeeeN.txt"
+    }
+  ]
+}
